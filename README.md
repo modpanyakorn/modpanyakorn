@@ -1,4 +1,4 @@
-# Profile inprogress
+# Profile in-progress
 
 ## 📊 GitHub Stats
 
