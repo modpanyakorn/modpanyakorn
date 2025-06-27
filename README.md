@@ -10,7 +10,3 @@
 
 
 ---
-
-💡 *"Data is the new oil, but like oil, it's valuable only when refined."*
-
-📫 **Let's connect and build something amazing together!**
