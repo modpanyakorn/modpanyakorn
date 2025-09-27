@@ -9,10 +9,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/modpanyakorn/modpanyakorn@output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/modpanyakorn/modpanyakorn@output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://cdn.jsdelivr.net/gh/modpanyakorn/modpanyakorn@output/pacman-contribution-graph.svg">
-</picture>
+![pacman contribution graph](https://cdn.jsdelivr.net/gh/modpanyakorn/modpanyakorn@output/pacman-contribution-graph.svg#gh-dark-mode-only)
+![pacman contribution graph](https://cdn.jsdelivr.net/gh/modpanyakorn/modpanyakorn@output/pacman-contribution-graph-dark.svg#gh-light-mode-only)
+
 
 ###
