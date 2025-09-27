@@ -9,9 +9,10 @@
 
 ###
 
-<img
-  src="https://raw.githubusercontent.com/modpanyakorn/modpanyakorn/output/pacman-contribution-graph.svg"
+<img 
+  src="https://cdn.jsdelivr.net/gh/modpanyakorn/modpanyakorn@output/pacman-contribution-graph.svg"
   alt="pacman contribution graph"
 >
+
 
 ###
